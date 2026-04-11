@@ -4,4 +4,4 @@ Solutions to Data Structures and Algorithms problems in C++.
 
 | Problem # | Title | Difficulty | Topic | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 42 | Trapping Rain Water | Hard | Two-Pointer | [View Code](./Two-Pointer/trapping-rain-water.cpp) |
+| 42 | Trapping Rain Water | Hard | Two-Pointer | [View Code](Two-Pointer/42_trapping_rain_water.cpp) |
