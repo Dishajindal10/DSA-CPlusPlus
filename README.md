@@ -2,7 +2,14 @@
 Solutions to Data Structures and Algorithms problems in C++.
 ## 📚 Problem-Solving Progress
 
-| Problem # | Title | Difficulty | Topic | Solution |
+##Array
+| Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 42 | Trapping Rain Water | Hard | Two-Pointer | [View Code](Two-Pointer/42_trapping_rain_water.cpp) |
-| 503 | Next Greater Element II | Medium | Stack | [View Code](Stack/503_next_greater_el_II.cpp) |
+| 1752 |If Array is sorted and rotated | Easy | [View Code](Arrays/1752_if_array_is_rotated_&_sorted.cpp) |
+| Problem # | Title | Difficulty | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| 42 | Trapping Rain Water | Hard | [View Code](Two-Pointer/42_trapping_rain_water.cpp) |
+##Stack
+| Problem # | Title | Difficulty | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| 503 | Next Greater Element II | Medium | [View Code](Stack/503_next_greater_el_II.cpp) |
