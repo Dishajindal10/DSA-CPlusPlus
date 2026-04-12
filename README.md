@@ -14,3 +14,4 @@ Solutions to Data Structures and Algorithms problems in C++.
 | Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
 | 503 | Next Greater Element II | Medium | [View Code](./Stack/503_next_greater_el_II.cpp) |
+| 735 | Asteroid Collision | Medium | [View Code](Stack/735_asteroid_collision.cpp) |
