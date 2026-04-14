@@ -19,6 +19,6 @@ Solutions to Data Structures and Algorithms problems in C++.
 | 735 | Asteroid Collision | Medium | [View Code](Stack/735_asteroid_collision.cpp) |
 
 ## Two Pointer
-|| Problem # | Title | Difficulty | Solution |
+| Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
 | 42 | Trapping Rain Water | Hard | [View Code](./Two-Pointer/42_trapping_rain_water.cpp) |
