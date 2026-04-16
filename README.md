@@ -14,6 +14,7 @@ Solutions to Data Structures and Algorithms problems in C++.
 ## Stack
 | Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
+| 84 | Largest Rectangle in Histogram | Hard | [View Code](Stack/84_largest_rect_in_histogram.cpp) |
 | 402 | Remove K digits | Medium | [View Code](Stack/402_remove_k_digit.cpp) |
 | 503 | Next Greater Element II | Medium | [View Code](./Stack/503_next_greater_el_II.cpp) |
 | 735 | Asteroid Collision | Medium | [View Code](Stack/735_asteroid_collision.cpp) |
