@@ -6,6 +6,7 @@ Solutions to Data Structures and Algorithms problems in C++.
 | Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
 | 1 | Two Sum | Easy | [View Code](Arrays/1_two_sum.cpp) |
+| 31 | Next Permutation | Medium | [View Code](Arrays/31_next_permutation.cpp) |
 | 53 | Maximum subarr (using Kedanne's Algo) | Medium | [View Code](Arrays/53_Max_no.cpp) |
 | 75 | Sort Colors | Medium | [View Code](Arrays/75_Sort_colors.cpp) |
 | 169 | Majoriy Element(using Moore's Voting Algo) | Medium | [View Code](Arrays/169_Majority_el.cpp) |
