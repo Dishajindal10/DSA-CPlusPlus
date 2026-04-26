@@ -9,6 +9,7 @@ Solutions to Data Structures and Algorithms problems in C++.
 | 31 | Next Permutation | Medium | [View Code](Arrays/31_next_permutation.cpp) |
 | 53 | Maximum subarr (using Kedanne's Algo) | Medium | [View Code](Arrays/53_Max_no.cpp) |
 | 75 | Sort Colors | Medium | [View Code](Arrays/75_Sort_colors.cpp) |
+| 128 | Longest Consecutive Sequence | Medium | [View Code](Arrays/128_longest_consec_seq.cpp) |
 | 169 | Majoriy Element(using Moore's Voting Algo) | Medium | [View Code](Arrays/169_Majority_el.cpp) |
 | 1752 | If Array is sorted and rotated | Easy | [View Code](./Arrays/1752_if_array_is_rotated_&_sorted.cpp) |
 
